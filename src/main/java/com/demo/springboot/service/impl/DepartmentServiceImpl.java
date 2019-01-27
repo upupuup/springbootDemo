@@ -1,7 +1,6 @@
 package com.demo.springboot.service.impl;
 
 import com.demo.springboot.bean.Department;
-import com.demo.springboot.bean.Employee;
 import com.demo.springboot.mapper.DepartmentMapper;
 import com.demo.springboot.service.IDepartmentService;
 import org.springframework.beans.factory.annotation.Autowired;
